@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    justify-content:center;
+    justify-content: space-around;
+    margin: 5rem;
+  }
+
+  .container2 {
+    display: flex;
+    justify-content:center;
+    flex-direction: row-reverse;
+    margin: 5rem;
+  }
+
+  .container3 {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column-reverse;
+
+  }
+
+  div {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .first {
+    background-color: rebeccapurple;
+    padding: 3rem 4rem;
+  }
+
+  .second {
+    background-color: brown;
+    padding: 3rem 4rem;
+  }
+
+  .three {
+    background-color: burlywood;
+    padding: 3rem 4rem;
+  }
+
+  .three {
+    background-color: burlywood;
+    padding: 3rem 4rem;
+  }
+
+  .four {
+    background-color: rgb(48, 54, 241);
+    padding: 3rem 4rem;
+  }
+
+  .five {
+    background-color: rgb(151, 249, 21);
+    padding: 3rem 4rem;
+  }
